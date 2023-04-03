@@ -1,5 +1,5 @@
 # wavefunction_development_in_fanpy
-These are the overlaps corresponding to a specific wavefunction in the mathematical framwork of Flexible-Ansatz for N-body Configuration Interaction (FANCI). 
+These are the overlaps corresponding to a specific wavefunction in the mathematical framwork of Flexible-Ansatz for N-body Configuration Interaction (FANCI). https://www.sciencedirect.com/science/article/pii/S2210271X21000463
 
 For the implementation these codes need to be pasted in the wfn folder in fanpy repository. 
 
